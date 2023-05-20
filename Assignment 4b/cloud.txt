@@ -1,0 +1,31 @@
+Cloud
+A network of remote servers located on the internet that store, manage, and process data is
+referred to as the cloud. Access to a variety of computing resources, such as servers, storage,
+databases, networking, and software programmes, is made available on demand.Hosting and
+operating a website on cloud infrastructure as opposed to conventional on-premises servers
+is known as website deployment on the cloud. An overview of website setup on the cloud is
+provided below:
+• Cloud service providers: These companies provide infrastructure and services for
+deploying websites, including Amazon Web Services (AWS), Microsoft Azure, and
+Google Cloud Platform (GCP). These suppliers offer a variety of services to suit various
+demands and have data centres spread across the globe.
+• Elasticity and Scalability: Cloud hosting enables websites to adjust resource allocation
+according to demand. Your hosting environment's capacity can be readily changed to
+handle traffic peaks or user base expansion. This scalability makes sure that even
+during times of high traffic, your website is responsive and accessible.
+• High availability features and redundant infrastructure are generally provided by cloud
+service providers. This means that automatic failover and load balancing systems
+might benefit your website, lowering the chance of downtime and increasing
+reliability.
+• Pay-as-you-go Pricing: Pay-as-you-go cloud hosting enables you to only pay for the
+resources you really utilise. It is therefore affordable, especially for small and mediumsized websites that could have erratic traffic patterns.
+• Elasticity and Scalability: Cloud hosting enables websites to adjust resource allocation
+according to demand. Your hosting environment's capacity can be readily changed to
+handle traffic peaks or user base expansion. This scalability makes sure that even
+during times of high traffic, your website is responsive and accessible.
+• High availability features and redundant infrastructure are generally provided by cloud
+service providers. This means that automatic failover and load balancing systems
+might benefit your website, lowering the chance of downtime and increasing
+reliability.
+• Pay-as-you-go Pricing: Pay-as-you-go cloud hosting enables you to only pay for the
+resources you really utilise. It is therefore affordable, especially for small and mediumsized websites that could have erratic traffic patterns.
