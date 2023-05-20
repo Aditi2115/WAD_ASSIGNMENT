@@ -1,0 +1,35 @@
+Docker 
+An open-source platform called Docker enables you to automate the distribution and 
+administration of applications inside of software containers. It offers a method for combining 
+software with its dependencies into a standardised structure known as a container.
+The following are some essential Docker points:
+• Containerization: Docker makes it possible to isolate apps and the dependencies they 
+require into discrete, self-contained entities known as containers. Regardless of the 
+underlying architecture, containers can run on any system that has Docker installed 
+and are small and lightweight.
+• Docker containers are extremely portable. On your local development workstation, a 
+container can be created and operate in a variety of contexts, including test servers, 
+other development machines, and even the cloud. Regardless of the host system, 
+containers ensure consistent behaviour by encapsulating the entire runtime 
+environment.
+• Efficiency: Docker containers are lighter than virtual machines (VMs) since they share 
+the kernel of the host operating system. This sharing enables larger density of 
+containerized apps on a single host, more effective resource utilisation, and quicker 
+startup times.
+• Isolation: Docker gives containers isolation at the process level. Each container has its 
+own process namespace, filesystem, and network interfaces. By preventing 
+interference between programmes running in different containers, this isolation 
+creates a stable and secure environment.
+• Versioning and reproducibility are made possible via Docker, which enables you to 
+define the whole application stack in a file known as a Dockerfile. The instructions in 
+this file describe how to create an image that may be used as a template when 
+making containers. You can quickly recreate the same environment by versioning and 
+distributing Docker files.
+• Scalability: By enabling container replication across several hosts, Docker makes it 
+easier to scale applications. You may manage container clusters, distribute the 
+workload, and scale up or down in response to demand using Docker's orchestration 
+tools, like Docker Swarm or Kubernetes.
+• Collaboration and Ecosystem: Docker has a sizable and vibrant community that offers 
+a vast ecosystem of pre-built tools and images. Container images can be shared and 
+found by visiting the Docker Hub and Docker Store. The ability to package and 
+distribute apps as containers facilitates collaboration.
